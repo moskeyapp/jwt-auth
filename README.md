@@ -1,5 +1,8 @@
 # jwt-auth
 
+## ⚠️ This is an unmaintained fork of the 0.5.12 version of See the [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth/). Please refrain from using this fork.
+ 
+
 > JSON Web Token Authentication for Laravel
 
 [![Build Status](http://img.shields.io/travis/tymondesigns/jwt-auth/master.svg?style=flat-square)](https://travis-ci.org/tymondesigns/jwt-auth)
